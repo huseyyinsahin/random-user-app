@@ -24,4 +24,4 @@ Kullanıcı bilgileri, [Random User API](https://randomuser.me/) kullanılarak �
 
 ## Live
 
-[Live Link]()
+[Live Link](https://random-user-app-rose.vercel.app/)
